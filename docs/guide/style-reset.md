@@ -45,7 +45,7 @@ import '@unocss/reset/sanitize/sanitize.css'
 import '@unocss/reset/sanitize/assets.css'
 ```
 
-### Eric Meyer
+### Eric Meyer's Reset
 
 Source: https://meyerweb.com/eric/tools/css/reset/index.html
 
